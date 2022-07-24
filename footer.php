@@ -13,9 +13,6 @@
                     <p class="paragraph" style="color:white">
                         Github: FMDcoder
                     </p>
-                    <p class="paragraph" style="color:white">
-                        Namn: Isak Nilsson
-                    </p>
                 </div>
             </div>
             <div class="col-md-3 col-1"></div>
